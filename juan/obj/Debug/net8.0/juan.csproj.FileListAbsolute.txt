@@ -1,0 +1,14 @@
+C:\Users\ALUMNO\Desktop\juan\bin\Debug\net8.0\juan.exe
+C:\Users\ALUMNO\Desktop\juan\bin\Debug\net8.0\juan.deps.json
+C:\Users\ALUMNO\Desktop\juan\bin\Debug\net8.0\juan.runtimeconfig.json
+C:\Users\ALUMNO\Desktop\juan\bin\Debug\net8.0\juan.dll
+C:\Users\ALUMNO\Desktop\juan\bin\Debug\net8.0\juan.pdb
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.AssemblyInfo.cs
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.dll
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\refint\juan.dll
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.pdb
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\juan.genruntimeconfig.cache
+C:\Users\ALUMNO\Desktop\juan\obj\Debug\net8.0\ref\juan.dll
